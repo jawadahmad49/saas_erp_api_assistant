@@ -9,4 +9,10 @@ pandas==2.2.3
 faiss-cpu==1.9.0
 fastapi==0.115.5
 uvicorn==0.32.1
-
+PIL
+langchain-text-splitters==0.3.2
+python-dotenv==1.0.1
+docx2txt==0.8
+pytesseract==0.3.13
+Pillow==11.0.0
+pypdf==5.1.0
