@@ -1,4 +1,3 @@
-#JawadAhmad
 aiohappyeyeballs==2.7.1
 aiosignal==1.4.0
 aiohttp==3.14.5
